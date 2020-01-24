@@ -1,0 +1,22 @@
+{
+  "name": "robo_youtube",
+  "version": "1.0.0",
+  "description": "Robôs para publicação de Vídeos no Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnomeirat/robo_youtube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magnomeirat/robo_youtube/issues"
+  },
+  "homepage": "https://github.com/magnomeirat/robo_youtube#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
